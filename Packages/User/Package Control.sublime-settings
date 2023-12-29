@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf",
+		"AutoWrap",
+		"C++ Completions",
+		"C++11",
+		"C++NamespaceTool",
+		"Center Comment",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Snippets",
+		"Google Spell Check",
+		"IntelliDocs",
+		"Intellitip",
+		"Licence Snippets",
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Package Control",
+		"PowerShell",
+		"Python 3",
+		"React IDE",
+		"React Templates",
+		"Ruby Completions",
+		"Ruby Debugger",
+		"Sass",
+		"Terminal",
+	],
+}

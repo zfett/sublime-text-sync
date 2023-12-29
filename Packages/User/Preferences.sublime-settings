@@ -1,0 +1,32 @@
+{
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_face": "JetBrains Mono Regular",
+	"font_size": 13,
+	"font_options": ["dlig", "ss02"],
+	"rulers": [80],
+	"spell_check": false,
+	"translate_tabs_to_spaces": true,
+	"caret_style": "blink",
+	"hardware_acceleration": "opengl",
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"ignored_words":
+	[
+		"Monokai"
+	],
+	"added_words":
+	[
+		"dlig",
+		"ss02",
+		"opengl",
+		"attkzach",
+		"backend",
+		"php",
+	],
+	"index_files": true,
+}
