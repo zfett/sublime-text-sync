@@ -1,5 +1,4 @@
-*
-
-!.gitignore
-!Preferences.sublime-settings
-!Package Control.sublime-settings
+/Lib
+/Log
+/Local
+/Trash
