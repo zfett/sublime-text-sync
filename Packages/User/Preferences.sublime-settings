@@ -13,6 +13,7 @@
 	"line_padding_top": 2,
 	"ignored_packages":
 	[
+		"Color Highlighter",
 		"Vintage",
 	],
 	"ignored_words":
